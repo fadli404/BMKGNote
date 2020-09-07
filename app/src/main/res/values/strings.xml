@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMKGNoteOfflineV1</string>
+    <string name="no_data">No Data</string>
+    <string name="tambah_data">TAMBAH DATA</string>
+    <string name="hari">Hari</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="bulan">Bulan</string>
+    <string name="tahun">Tahun</string>
+    <string name="anging_permukaan">Angin Permukaan</string>
+    <string name="azimuth">Azimuth</string>
+    <string name="ketinggian">Ketinggian</string>
+    <string name="elevasi">Elevasi</string>
+    <string name="tambah">TAMBAH</string>
+    <string name="_31">31</string>
+    <string name="minggu">MINGGU</string>
+    <string name="_2020">2020</string>
+    <string name="_101010110">101010110</string>
+    <string name="update">Update</string>
+    <string name="data_id">Data id :</string>
+    <string name="hapus">Hapus</string>
+</resources>
